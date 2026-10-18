@@ -51,10 +51,6 @@ For each of 1,000 simulated months (31 days):
 The ROP starts at 400 and increases in steps of 10 until the average **Full-Coverage Days** (share of days without a stockout) falls into the 95-100% corridor.
 
 
-## Model algorithm
-![Uploading Group 18 (1).png…]()
-
-
 
 ## Results
 
